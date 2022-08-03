@@ -1,4 +1,6 @@
 {
     "isBaseRuleset": true,
-    "ancientRuinCountMultiplier": 10,
+    "constants": {
+        "ancientRuinCountMultiplier": 10,
+    }
 }
