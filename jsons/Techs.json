@@ -10,12 +10,12 @@
 				"row": 6,
 				"quote": "'Where tillage begins, other arts follow. The farmers therefore are the founders of human civilization.' - Daniel Webster",
 				"prerequisites": ["True Agriculture"],
-				"uniques": ["Only available <before discovering [True Agriculture]>"]
+				"uniques": ["Only available <before discovering [True Agriculture]>","Blank tech for mod compatibility"]
 			},
 			{
 				"name": "True Agriculture",
 				"row": 5,
-				"quote": "Blank tech for mod-compatability purposes",
+				"quote": "Hey.",
 				"uniques": ["Starting tech"]
 			}
 		]
